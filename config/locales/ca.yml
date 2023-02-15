@@ -21,7 +21,7 @@ ca:
   AssignmentGroupListItemView: 
     drop_highest_rule: 
       one: "Deixa anar la puntuació més alta"
-      other: "Deixa anar les %{count} puntuacions més altes"
+      other: "Deixa anar les %{count} puntuacions més1 altes"
     drop_lowest_rule: 
       one: "Deixa anar la puntuació més baixa"
       other: "Deixa anar les %{count} puntuacions més baixes"
